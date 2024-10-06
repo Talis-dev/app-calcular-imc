@@ -62,7 +62,7 @@ export default function Form(){
            ></TextInput>  
 
            <Button
-           color={'#008000'}
+           color={'#058000'}
            onPress={()=>validationImc()}
            title={textButton}
            />
